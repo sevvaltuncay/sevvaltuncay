@@ -16,8 +16,8 @@
 
 ## About Me
 
-- 🔭 I’m currently working on: Stargazer's Hall - Nft Marketplace and Cloudgazer - Weather Forecast
-- 🌱 I’m currently learning: Web3
+- 🔭 I’m currently working on: Photo Search (you can find the repo's all the process)
+- 🌱 I’m currently learning: Web3, Solidity, MySQL, Docker
 - 📫 How to reach me: sevvaltuncy@gmail.com
 
 ## Stats
